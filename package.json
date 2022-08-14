@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "@misteraladin/frontend-ui": "github:misteraladin/frontend-ui#iqbal-test",
+    "@popperjs/core": "^2.11.6",
+    "sass": "^1.54.4",
+    "vue-snip": "^2.0.0"
+  }
+}
